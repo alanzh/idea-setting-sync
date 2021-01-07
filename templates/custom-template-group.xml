@@ -1,5 +1,5 @@
 <templateSet group="custom-template-group">
-  <template name="comment-method" value="/**&#10; * @title: $title$ &#10; * @description: update coming soon&#10; * @date: $date$ $time$&#10; $params$&#10; * @return: $returns$&#10;*/" description="method comment" toReformat="true" toShortenFQNames="true">
+  <template name="doc" value="&#10; * @title: $title$ &#10; * @description: update coming soon&#10; * @date: $date$ $time$&#10; $params$&#10; * @return: $returns$&#10;*/" shortcut="ENTER" description="method comment" toReformat="false" toShortenFQNames="true">
     <variable name="title" expression="methodName()" defaultValue="" alwaysStopAt="true" />
     <variable name="date" expression="date(&quot;yyyy-MM-dd&quot;)" defaultValue="" alwaysStopAt="true" />
     <variable name="time" expression="time(&quot;HH:mm&quot;)" defaultValue="" alwaysStopAt="true" />
