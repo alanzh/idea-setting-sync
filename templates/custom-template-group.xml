@@ -9,4 +9,5 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="apidoc" value="/**&#10; * http(s)://server.com/api-name/{version}/{domain}/{rest-convention}&#10; *&#10; * @author alan.yang.zhang&#10; * @create 2019-09-18&#10; **/" description="class comment" toReformat="false" toShortenFQNames="true" />
 </templateSet>
