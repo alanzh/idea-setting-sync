@@ -1,0 +1,14 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.myxl.cn/" />
+          <token>dfd9dfdbdfdadff5dfcedf9cdf9adf9bdf9edf98df92df9cdf9cdf9adf9edf9bdf93dfc8dfcfdfcedfc9dfcbdf9cdf9edf9ddf9edf98df9adf93dfcedfcedf9fdf9bdf93dfcfdfcedf9fdf92dfcfdf98dfcbdf92dfcedfcc</token>
+          <option name="name" value="smartlife" />
+        </SonarQubeServer>
+      </list>
+    </option>
+    <rules />
+  </component>
+</application>
