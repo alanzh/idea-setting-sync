@@ -1,9 +1,15 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '~/.m2/repository/com/baomidou/mybatis-plus-core/3.3.0/mybatis-plus-core-3.3.0.jar!/com/baomidou/mybatisplus/core/conditions/AbstractLambdaWrapper.class [Maven: com.baomidou:mybatis-plus-core:3.3.0]'" />
-    <option name="defaultScopeName" value="File '~/.m2/repository/com/baomidou/mybatis-plus-core/3.3.0/mybatis-plus-core-3.3.0.jar!/com/baomidou/mybatisplus/core/conditions/AbstractLambdaWrapper.class [Maven: com.baomidou:mybatis-plus-core:3.3.0]'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '~/.m2/repository/com/baomidou/mybatis-plus-core/3.3.0/mybatis-plus-core-3.3.0.jar!/com/baomidou/mybatisplus/core/conditions/AbstractLambdaWrapper.class [Maven: com.baomidou:mybatis-plus-core:3.3.0]'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
