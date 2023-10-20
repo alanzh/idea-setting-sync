@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="bak" type="PLAIN_TEXT" />
+      <mapping ext="imports" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
